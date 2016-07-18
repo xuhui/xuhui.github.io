@@ -8,8 +8,10 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
   </header>
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    <img style="width:700px;box-shadow: 3px 3px 8px #6f6f6f;" src="..{{page.url | replace:'.html','.jpg' | replace:'/pages/','/images/'}}" class="indeximg" alt="Image not found" onError="this.onError=null;this.style.display='none';" />    {{ content }}
+    <!--
     {% include post-share.html %}
+    -->
   </div>
 </article>
 

@@ -2,7 +2,7 @@
 layout: post
 title: ALI WAS SEXY
 author: X. H.
-category: Rest
+category: work
 ---
 
 ## 光阴似箭
@@ -11,6 +11,6 @@ category: Rest
 
 老朱在办公室养狗。
 
-感谢卢工，感谢DUDDIE，感谢老泪，感谢萧博。
+感谢卢工，感谢DUDDIE，感谢老雷，感谢萧博。
 
 也谢谢我自己，我要加油。

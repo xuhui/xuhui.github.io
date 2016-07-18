@@ -2,7 +2,7 @@
 layout: post
 title: 软件团队与道法术器（稿）
 author: X. H.
-category: Playground
+category: work
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: 创新和基因
 author: X. H.
-category: Views
+category: blog
 ---
 
 ## “大”企业的创新

@@ -3,7 +3,7 @@
 layout: post
 title: Lego bricks
 author: X. H.
-category: Views
+category: blog
 ---
 
 ## 乐高积木

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am trying to live with out smartphone
+title: I am trying to live without smartphone
 author: X. H.
 category: blog
 ---

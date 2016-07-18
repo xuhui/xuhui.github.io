@@ -55,7 +55,7 @@ how time flies...
 
 ### 2010~2014
 
-#### LEAD AND MAKE ART WITH SOFTWARE
+#### Director of software team
 
 Team leader in ALi.
 

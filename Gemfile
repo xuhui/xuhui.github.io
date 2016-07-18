@@ -1,9 +1,12 @@
 # If you have OpenSSL installed, we recommend updating
 # the following line to use "https"
-source 'http://rubygems.org'
-ruby "2.2.4"
+#source 'http://rubygems.org'
+source 'https://gems.ruby-china.org'
+ruby "2.1.4"
+
 
 #group :development do
+  gem 'ffi', '= 1.9.0'
   gem 'html-proofer'
   gem 'jekyll', '~> 3.0', '>= 3.0.1'
   gem 'jekyll-paginate', '~> 1.1'

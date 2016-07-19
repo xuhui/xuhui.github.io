@@ -1,0 +1,6 @@
+2016/07/19 - refer by totally write my own plugin on category nav
+http://stackoverflow.com/questions/28331879/jekyll-next-and-previous-links-with-different-categories
+
+2016/07/19 - refer to stackoverflow for new year group
+http://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year
+

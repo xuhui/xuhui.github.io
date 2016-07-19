@@ -17,9 +17,9 @@ comments: true
 
 下面是我今天的结果，有点木哈
 
-![w600](/images/2016-05-31-Listening_Test.jpg)
+![w800](/images/2016-05-31-Listening_Test.jpg)
 
-![w600](/images/2016-05-31-Listening_Test_Result.jpg)
+![w800](/images/2016-05-31-Listening_Test_Result.jpg)
 
 听说每个人在一天当中的不同时段，对声音的感知都是不一样的。只是我们平时不关心
 

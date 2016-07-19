@@ -13,14 +13,14 @@ comments: true
 
 
 ## 1/ SONOS 罗列的 HiFi 历史
-![w600](/photos_on_note/bf6e9a3a3c3dd8812f0bfd84c3a0d852.png)
+![w800](/photos_on_note/bf6e9a3a3c3dd8812f0bfd84c3a0d852.png)
 
 
 ---
 
 ## 2/ 华纳音乐应收贡献：串流超越下载
 
-![w600](/photos_on_note/e69396093ba74ce14c53d377844bc970.jpg)
+![w800](/photos_on_note/e69396093ba74ce14c53d377844bc970.jpg)
 
 ### May 11, 2015
 
@@ -32,7 +32,7 @@ In what could be a harbinger of shifting music industry trends, Warner Music Gro
 
 ## 3/ The True Story of How Vinyl Spun Its Way Back From Near-Extinction
 
-![w600](/photos_on_note/4a93cd00b1d5e0914682371022059454.jpg)
+![w800](/photos_on_note/4a93cd00b1d5e0914682371022059454.jpg)
 
 data shows people that buy vinyl are more likely than the average music consumer to listen to Internet radio, follow artists on social media and stream on-demand music. They're heavy music consumers that need something beyond digital files or CDs.
 
@@ -42,7 +42,7 @@ http://www.billboard.com/articles/business/6406630/vinyl-records-comeback-music-
 
 ## 4/ Digital music revenues overtake physical sales for the first time
 
-![w600](/photos_on_note/b6d8d5cfb49b5f1380b524cef74e40d7.png)
+![w800](/photos_on_note/b6d8d5cfb49b5f1380b524cef74e40d7.png)
 
 http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/11535355/Digital-music-revenues-overtake-physical-sales-for-the-first-time.html
 
@@ -50,7 +50,7 @@ http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/11535
 
 ## 5/ 收听串流音乐是上网的其中一个重要活动
 
-![w600](/photos_on_note/af927b3ae8596398b2b93435f481489e.png)
+![w800](/photos_on_note/af927b3ae8596398b2b93435f481489e.png)
 
 
 http://www.musicwatchinc.com/blog/with-a-possible-relaunch-of-itunes-radio-streaming-service-apple-has-some-catching-up-to-do/
@@ -63,9 +63,9 @@ click this ==> [PDF](http://www.bpi.co.uk/assets/files/Digital%20Music%20Nation%
 
 ## 7/ College Students ARE Willing To Pay For Streaming Music
 
-![w600](/photos_on_note/0a426c5e6f39903f11a7a4a4724d3732.png)
+![w800](/photos_on_note/0a426c5e6f39903f11a7a4a4724d3732.png)
 
-![w600](/photos_on_note/2ad68f806252d8ad36330abc4d58f450.png)
+![w800](/photos_on_note/2ad68f806252d8ad36330abc4d58f450.png)
 
 http://www.hypebot.com/hypebot/2015/07/college-students-are-willing-to-pay-for-streaming-music-survey-results.html
 
@@ -73,7 +73,7 @@ http://www.hypebot.com/hypebot/2015/07/college-students-are-willing-to-pay-for-s
 
 ## 8/ 听收音机是更爽的事情
 
-![w600](/photos_on_note/f86b5de4357f0a7937b11b1d5591a69c.jpg)
+![w800](/photos_on_note/f86b5de4357f0a7937b11b1d5591a69c.jpg)
 
 http://www.dailymail.co.uk/news/article-2009161/Why-listening-radio-gives-pleasure-watching-TV-using-laptop.html
 
@@ -81,7 +81,7 @@ http://www.dailymail.co.uk/news/article-2009161/Why-listening-radio-gives-pleasu
 
 ## 9/ 小年轻更爱 music
 
-![w600](/photos_on_note/35b5d2c0f379c21ced218d2d02b8dea7.png)
+![w800](/photos_on_note/35b5d2c0f379c21ced218d2d02b8dea7.png)
 
 https://www.americanpressinstitute.org/wp-content/uploads/2013/09/NIE_Fitting_into_their_lives.pdf
 
@@ -89,7 +89,7 @@ https://www.americanpressinstitute.org/wp-content/uploads/2013/09/NIE_Fitting_in
 
 ## 10/ 关于 multi-room，首先要关注的几点
 
-![w600](/photos_on_note/87a79e955e5d48270a0488c8131f0c41.jpg)
+![w800](/photos_on_note/87a79e955e5d48270a0488c8131f0c41.jpg)
 
 http://www.telegraph.co.uk/technology/news/11439794/Multiroom-speakers-what-you-need-to-know-before-buying.html
 
@@ -97,7 +97,7 @@ http://www.telegraph.co.uk/technology/news/11439794/Multiroom-speakers-what-you-
 
 ## 11/ How Sonos Built the Perfect Wireless Speaker
 
-![w600](/photos_on_note/62cc6343c6f88c174c8925067433c479.jpg)
+![w800](/photos_on_note/62cc6343c6f88c174c8925067433c479.jpg)
 
 http://www.bloomberg.com/bw/articles/2014-10-30/how-sonos-and-john-macfarlane-built-the-perfect-wireless-speaker-for-streaming-music
 
@@ -105,7 +105,7 @@ http://www.bloomberg.com/bw/articles/2014-10-30/how-sonos-and-john-macfarlane-bu
 
 ## 12/ The History of High End Audio
 
-![w600](/photos_on_note/b0c46ed227534a76088cf873e75fb0a5.jpg)
+![w800](/photos_on_note/b0c46ed227534a76088cf873e75fb0a5.jpg)
 
 http://audiophilereview.com/the-history-of-high-end-audio.html
 
@@ -155,7 +155,7 @@ https://en.wikipedia.org/wiki/Alternator
 
 你知道收音机长这样吗
 
-![w600](/photos_on_note/569f4f46f17bbf5c78fb5c8be55b65e1.png)
+![w800](/photos_on_note/569f4f46f17bbf5c78fb5c8be55b65e1.png)
 
 https://en.wikipedia.org/wiki/Crystal_radio
 
@@ -168,7 +168,7 @@ https://en.wikipedia.org/wiki/Old-time_radio
 ### MP3
 之后，这帮家伙发明了 MP3
 
-![w600](/photos_on_note/92281ff2f324d21f6408edc35b4874a5.png)
+![w800](/photos_on_note/92281ff2f324d21f6408edc35b4874a5.png)
 
 ---
 

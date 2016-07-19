@@ -121,7 +121,10 @@ picture {
 }
 /* JOE, add this to limit the picture size */
 img[alt=w600] {
-  width: 600px; 
+  width: 600px;
+}
+img[alt=w800] {
+  width: 800px;
 }
 
 blockquote {

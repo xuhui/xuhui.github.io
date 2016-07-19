@@ -119,6 +119,10 @@ picture {
   margin: 0;
   max-width: 100%;
 }
+/* JOE, add this to limit the picture size */
+img[alt=w600] {
+  width: 600px; 
+}
 
 blockquote {
   padding: 0 0 0 $base-spacing;

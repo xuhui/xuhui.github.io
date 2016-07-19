@@ -2,7 +2,7 @@
 layout: post
 title: 拜访 SEEEDSTUDIO
 author: X. H.
-category: work
+category: blog
 ---
 
 ![](/images/extra/seeed-01.jpg)

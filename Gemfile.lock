@@ -84,3 +84,9 @@ DEPENDENCIES
   jekyll-paginate (~> 1.1)
   pygments.rb (~> 0.6.3)
   sass (~> 3.4, >= 3.4.20)
+
+RUBY VERSION
+   ruby 2.1.4p265
+
+BUNDLED WITH
+   1.13.5

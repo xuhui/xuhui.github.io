@@ -58,7 +58,7 @@ Survey/design/implement new product, shown at *2015 IBC, 2016 CES, 2016 IBC*
 
 Built a new R&D team for new business
 
-* Team building 1 to 40 R&D engineers
+* Team building, from 1 to 40 R&D engineers
 * Solution architect
 * Management tools/flows development
 * Achieved millions units shipment

@@ -1,0 +1,98 @@
+---
+layout: post
+title: DIY R-2R Audio DAC
+category: audio
+comments: true
+---
+
+```
+根据博主在 hifidiy.net 的帖子整理
+```
+
+## 缘起，关于 R-2R DAC
+
+概括来说常见的 AUDIO DAC 分 OS(Over Sampling) 和 NOS(Non Over Sampling) 两类。
+
+OS 是目前的主流架构，主要是因为容易实现，成本低，缺陷是 over sampling 过程引入额外的高频噪声和失真。NOS 的实现方法以 R-2R 最为常见，如 PCM1704 集成电路。也有部分 DIY 爱好者和厂商使用分立元件实现 R-2R DAC。另外相较 OS DAC 而言， LPF 的实现更加复杂。博主在 2016 年中秋节前后使用 CPLD 和精密电阻 DIY 了一个 R-2R DAC，圆满达到捣腾的效果。而 DAC 本身仍需继续调优，包括更换电阻、优化走线以求等长等阻、优化 verilog 代码以求减少毛刺、使用查表校准电阻误差等等。。所谓折腾无止境，现阶段更想做显示方面等东西玩
+
+
+## 国际友人对 OS/NOS/R-2R 的看法
+
+http://www.mother-of-tone.com/conversion.htm
+
+以上是一个链接，作者阐述了 OS 架构 DAC 等各种不好， R-2R 是被给予希望的。人们对 audio 对感知存在很大对个体差异，所以对 audio 对品质是不容易阐述和达成共识的，作者从本源上进行了探讨。互联网上有另外一批人是持相反观点的，认为 OS 才是王道， NOS 是渣渣。
+
+## 尝试 DIY
+
+博主留意到目前R-2R DAC是两类一类是用 74 逻辑 IC，还有是用 FPGA 搭配 74 逻辑 IC。
+
+博主尝试用一个 CPLD 完成 I2S 信号转换至 R-2R 电平 (3.3V)，搭配 0603 精密电阻。这样可以把板子做得比较小，焊的零件也比较少，更可以在打板前可以用洞洞板实验。
+
+有关详情请移步到HIFIDIY.NET的帖子 => [http://bbs.hifidiy.net/forum.php?mod=viewthread&tid=1214257](http://bbs.hifidiy.net/forum.php?mod=viewthread&tid=1214257)
+
+以下贴几张图片做个记录。
+
+---
+
+
++ R-2R 的原理
+
+![w800](/images/diy-r-2r/001.jpg)
+
++ 法国天价分立元件R-2R，totalDAC（网友提供图片）
+
+![w800](/images/diy-r-2r/002.jpg)
+
++ 洞洞板原型
+
+![w800](/images/diy-r-2r/003.jpg)
+![w800](/images/diy-r-2r/004.jpg)
+
++ verilog 编写和仿真
+
+![w800](/images/diy-r-2r/005.jpg)
+![w800](/images/diy-r-2r/005b.jpg)
+
++ CPLD 连接R-2R网络
+
+![w800](/images/diy-r-2r/006.jpg)
+
++ 打板
+
+![w800](/images/diy-r-2r/007.jpg)
+
++ PCBA
+
+![w800](/images/diy-r-2r/008.jpg)
+
++ PCBA 连接 I2S 模块
+
+![w800](/images/diy-r-2r/009.jpg)
+
++ 最后输出的波形
+
+![w800](/images/diy-r-2r/010.jpg)
+
+---
+
+## 后记
+
+关于音质，通过博主的耳朵测试感觉是人声比较像是 TDA1543 的风格。人声比较毒、高频比较惭愧。没有办法通吃各种风格的音乐。
+
+如上面图片所见，画的板子仍然是实验用途。日后时间充裕了或考虑做一款带大推力运放的板子。
+
+这次的 DIY 特别练手了 Verilog/CPLD，为日后捣腾 FPGA 打个基础基础基础
+
+---
+
+## 电路
+
+以下提供原理图和 PCB 供有缘人下载参考。
+
+特别说明的是电路仍在原理验证阶段，2016  中秋假期前花了几个夜晚的空余时间在家里完成设计、打板，随后在中秋假期进行焊接调试。接性以外的电器特性都欠细致考虑。
+
+eagle 格式的原理图 => [下载](/images/diy-r-2r/r-2r.sch)
+
+eagle 格式的电路板 => [下载](/images/diy-r-2r/r-2r.brd)
+
+

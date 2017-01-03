@@ -4,7 +4,7 @@ title: 关于 Xu Hui
 ---
 
 <p class="message">
-I live in the Zhuhai City. When I am not working I typically do some DIY for fun, have fun by taking photos, enjoy the time with my family..
+My name is Zhou Xuhui, sometimes I am called <strong class="author-name" itemprop="name">Joe</strong>(or Joe Zhou). I live in the Zhuhai City. When I am not working I typically do some DIY for fun, have fun by taking photos, enjoy the time with my family..
 </p>
 
 ---

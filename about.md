@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于 Xu Hui
+title: About Xu Hui
 ---
 
 <p class="message">
@@ -8,6 +8,10 @@ My name is Zhou Xuhui, sometimes I am called <strong class="author-name" itempro
 </p>
 
 ---
+
+```
+in Chinese and not updated
+```
 
 ## 兴趣和爱好
 
@@ -30,14 +34,49 @@ how time flies...
 
 ---
 
-## TECHNIC SKILL AND LEARNING, NOW FOR FUN ONLY
+## DIY projects and opensource projects
+
+I am an EE fans, interested in electronic DIY started from childhood, let me post the latest stuff one by one later.
+
+I have ever built several [redmine plugs](http://github.com/xuhui) for ALi company use and they are opensource, as the code was built for the open source redmine system, and not related to the key value/business of ALi company, so the projects are available in my github.
+
+I am now interested in built some audio hardware, holp can do something not related to the company project but interesting in my spare time.
+
+---
+
+## Career
+
+### 2015~ 
+
+#### Marketing on New Product (Audio domain)
+
+Survey/design/implement new product, shown at *2015 IBC, 2016 CES, 2016 IBC*
+
+### 2010~2014
+
+#### Lead of a software team in ALi Corp.
+
+Built a new R&D team for new business
+
+* Team building, from 1 to 40 R&D engineers
+* Solution architect
+* Management tools/flows development
+* Achieved millions units shipment
+
+---
+
+## Technic skills
+
+```
+start from most recent
+```
 
 * Verilog HDL, recently interest in building a small logic on DIY audio project
 * Routing tools, as I am a EE DIYer, mainly use EAGLE and sometimes PADS on my DIY boards
 * Python, have fun with it
-* Javascript/CSS, a little bit on Node
-* Ruby, mostly Rails, also eventmachine 
-* iOS, xcode (only OC, no time on swift yet)
+* Javascript/CSS
+* Ruby, Rails
+* iOS, xcode/OC
 * Android Java (only a little bit know-how on it, no interest)
 * C/C++（have ever built big things with)
 * Assembly (x86, MIPS. re-implemented itron OS)
@@ -45,40 +84,32 @@ how time flies...
 
 ---
 
-## 职业经历
+## The plan on quick learning/survey (2017)
 
-### 2015~ 
+* System C
+* Erlang
 
-#### Marketing on New Product
+## The plan on next DIY projects (2017)
 
-
-
-### 2010~2014
-
-#### Director of software team
-
-Team leader in ALi.
+* A Clock connected with internet -- built with beautiful housing
+* A LCD display connected with internet
+* A Class-A headphone amplifier
 
 ---
 
-## Invented Patents
+# Other Interests
 
-I have several,, humm, that is not important now
-
----
-
-## Projects
-
-I have ever built several [redmine plugs](http://github.com/xuhui) for ALi company use and they are opensource, as the code was built for the open source redmine system, and not related to the key value/business of ALi company.
-
-I am now interested in built some audio hardware, holp can do something not related to the company project but interesting in my spare time.
+* Music
+* Photography
+* Travel
+* Coding
+* Blogging - I believe I will have more and more time on writing
 
 ---
 
-# 其它爱好
+## Find Xu Hui by
 
-Music / Photography / Travel / Coding / Blogging
-
-## 联系 Xu Hui
-
-[mail@zhouxuhui.com](mailto:mail@zhouxuhui.com)
+* email - [mail@zhouxuhui.com](mailto:mail@zhouxuhui.com)
+* github - [https://github.com/xuhui](https://github.com/xuhui)
+* skype - zhouxuhui@gmail.com
+* wechat - zhou_xu_hui

@@ -46,10 +46,12 @@ We together have ever been in a great trip, we've ever fought aginst each other
 
 I learned a lot during the stories, and I miss him. He is in Hangzhou now.
 
-## 10, Gina Chang
+## 10, Jim and Marconi
 
-A very nice, beautiful girl. Thanks for your always warm greetings
-I must thank Gina not because of she bought me 维大力, because of all the e-cards
+I must thank Jim, by chance I widely learned the basic knowledge on engineering. must thank - throught he might not know
+
+Marconi, thanks and I has been a workderful experience working with you, let me became a DIYer/maker again. and I am happy/enjoy with it.
+
 
 ```
 I only put 10 people in the list above because the scrollbar will be

@@ -4,3 +4,8 @@ http://stackoverflow.com/questions/28331879/jekyll-next-and-previous-links-with-
 2016/07/19 - refer to stackoverflow for new year group
 http://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year
 
+2017/02/12 - try capistrano, no luck on v3, v2 looks work, need tuning on: server file cleaning, use setfacl and remove chmod 777
+https://www.digitalocean.com/community/tutorials/how-to-get-started-with-jekyll-on-an-ubuntu-vps
+use:
+cap deploy:setup # first time only
+cap deploy

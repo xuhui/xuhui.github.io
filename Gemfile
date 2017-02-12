@@ -14,3 +14,6 @@ ruby "2.1.4"
   gem 'bourbon', '~> 4.2', '>= 4.2.6'
   gem 'pygments.rb', '~> 0.6.3'
 #end
+
+gem 'capistrano', '~> 3.0.0'
+gem 'capistrano-file-permissions'

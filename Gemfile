@@ -15,5 +15,7 @@ ruby "2.1.4"
   gem 'pygments.rb', '~> 0.6.3'
 #end
 
-gem 'capistrano', '~> 3.0.0'
-gem 'capistrano-file-permissions'
+## gem 'capistrano', '~> 3.0.0'
+## gem 'capistrano-file-permissions'
+
+gem 'capistrano', '~> 2.15.9'

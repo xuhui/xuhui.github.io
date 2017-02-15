@@ -2,17 +2,18 @@
 layout: post
 title: The Wonderful Days
 author: X. H.
-category: blog
+category: work
 ---
 
+It's time to say good bye, I have been working in ALi Corp. for more than 16 years, it's a wonderful experience.
 
-## Many many Thanks for being with me all these years
+Many many Thanks for being with me all these years
 
 .. specially below 10 people
 
 ## 1, Sandra
 
-The girl who has been with me for these years
+My wife, who has been with me for the years, with all the supporting and I was able to work hard and play in ALi for many years
 
 ## 2, Kevin
 
@@ -52,8 +53,8 @@ I must thank Jim, by chance I widely learned the basic knowledge on engineering.
 
 Marconi, thanks and I has been a workderful experience working with you, let me became a DIYer/maker again. and I am happy/enjoy with it.
 
+---
 
 ```
-I only put 10 people in the list above because the scrollbar will be
-not long enough. I do have many people to thank.
+and all the great people there, we worked and played together
 ```

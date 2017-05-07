@@ -100,7 +100,9 @@ hr {
   font-weight: 300;
 
   span {
-    font-weight: 700;
+    /* font-weight: 700; */
+    color: lightsalmon;
+    vertical-align: super;
   }
 }
 
@@ -115,6 +117,7 @@ hr {
   padding: 0;
   pointer-events: all;
   cursor: pointer;
+  padding-top: inherit;
 
   li {
     display: inline-block;

@@ -101,7 +101,7 @@ DEPENDENCIES
   sass (~> 3.4, >= 3.4.20)
 
 RUBY VERSION
-   ruby 2.1.4p265
+   ruby 2.3.0p0
 
 BUNDLED WITH
-   1.13.5
+   1.14.6

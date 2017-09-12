@@ -20,7 +20,7 @@ title: 博主基本资料
 ## 工作经历
 
 - 1993～2001 任职于中共珠海市委办公室，先后负责专用通讯系统运维等工作
-- 2001～2017 任职于珠海扬智电子科技有限公司（珠海科广电子）
+- 2001～2017 任职于[珠海扬智电子科技有限公司（珠海科广电子）](http://www.alitech.com)
   - 2001～2004 任职资深软件工程师，负责LINUX驱动、实时操作系统核心重构等工作
   - 2005～2006 任职高级工程师，负责嵌入式系统中间件和应用的开发
   - 2007～2009 任职专案经理，负责适用于欧洲的DVB-T产品技术调研、工程开发管理和关键客户项目管理等工作。与公司有关同仁一起完成DVB-T全球超过五成的市场占有率
@@ -28,6 +28,8 @@ title: 博主基本资料
   - 2015～2017.2 任职新事业处市场部专案经理，负责开源硬件、互联网硬件和智能家居等领域的产品调研和产品设计。目前项目处于量产准备状态
     - 其中一款产品原型发布：[http://img.pr.com/release-file/1508/634748/ALipress_release_IBCsoundbar2.pdf](http://img.pr.com/release-file/1508/634748/ALipress_release_IBCsoundbar2.pdf)
     - 另外一款产品在准备量产：[http://www.elipson.com/en/range/150_Cube.html](http://www.elipson.com/en/range/150_Cube.html)
+- 2017.4 - 任职于[珠海多士科技](http://www.moresmart.com)
+
 
 ## 项目经验
 

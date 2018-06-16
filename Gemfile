@@ -2,7 +2,7 @@
 # the following line to use "https"
 #source 'http://rubygems.org'
 source 'https://gems.ruby-china.org'
-ruby "2.3.0"
+ruby "2.3.1"
 
 
 #group :development do

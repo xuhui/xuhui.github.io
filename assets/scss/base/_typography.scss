@@ -75,6 +75,9 @@ picture {
   max-width: 100%;
 }
 /* JOE, add this to limit the picture size */
+img[alt=w300] {
+  width: 300px;
+}
 img[alt=w600] {
   width: 600px;
 }

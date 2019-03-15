@@ -6,7 +6,7 @@ source 'https://gems.ruby-china.com'
 
 
 #group :development do
-  gem 'ffi', '= 1.9.0'
+  gem 'ffi', '= 1.10.0'
   gem 'html-proofer'
   gem 'jekyll', '~> 3.0', '>= 3.0.1'
   gem 'jekyll-paginate', '~> 1.1'

@@ -22,7 +22,7 @@ comments: false
     * 不了，用 ALTIUM 吧。。还没有用 ALTIUM 发过板子
     * 嗯嗯，不了，用 KiCad 吧。学一下
 
-## 然后就下面这样了
+## 然后就是下面
 
 #### KiCad 画好后 3D 预览
 

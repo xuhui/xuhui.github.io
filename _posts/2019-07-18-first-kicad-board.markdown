@@ -37,7 +37,8 @@ comments: false
 
 #### 焊好了，可以工作了
 
-(我没有拍吗。。。)
+![w800](/images/2019-07-18-first-kicad-board-04a.jpg)
+![w800](/images/2019-07-18-first-kicad-board-04b.jpg)
 
 #### 成果
 

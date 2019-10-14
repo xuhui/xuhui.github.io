@@ -8,6 +8,13 @@ url: # site url
 # baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
 
+# reveal options
+reveal:
+  slide_separator:    "<hr />"
+  vertical_separator: "<p>~~</p>"
+  notes_separator:    "<p>Notes:</p>"
+  title_slide:        true
+
 google_analytics: UA-XXXXX-XX
 repo:
 disqus_shortname:
@@ -18,6 +25,12 @@ comments: true
 #permalink   : /:year/:title/
 permalink:        /pages/:year-:month-:day-:title.html  #pretty
 markdown    : kramdown
+
+collections:
+  slides:
+    output:           true
+    permalink:        /:collection/:title/
+
 highlighter : rouge
 
 source: ./

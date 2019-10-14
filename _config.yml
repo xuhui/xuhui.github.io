@@ -13,7 +13,7 @@ reveal:
   slide_separator:    "<hr />"
   vertical_separator: "<p>~~</p>"
   notes_separator:    "<p>Notes:</p>"
-  title_slide:        true
+  title_slide:        false # true
 
 google_analytics: UA-XXXXX-XX
 repo:

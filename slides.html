@@ -5,7 +5,8 @@ title: Home
 
 <section class="post-list">
   <div class="container">
-    {% for post in site.slides %}
+    {% assign items = site.slides | sort: 'date' | reverse %}
+    {% for post in items %}
       {% assign currentdate = post.date | date: "%Y" %}
       {% if currentdate != date %}
         {% unless forloop.first %}</ul>{% endunless %}

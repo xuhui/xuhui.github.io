@@ -21,6 +21,28 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
+  <!-- migrate from: https://github.com/evilz/vscode-reveal/tree/master/libs ,
+    <link rel="stylesheet" href="{{ "/libs/reveal.js/font-awesome-4.7.0/css/font-awesome.min.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "/libs/reveal.js/3.8.0/css/reveal.css" | prepend: site.baseurl }}"/>
+    {% if page.theme %}
+      <link rel="stylesheet" href="{{ "/libs/reveal.js/3.8.0/css/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
+    {% else %}
+      <link rel="stylesheet" href="{{ "/libs/reveal.js/3.8.0/css/theme/white.css" | prepend: site.baseurl }}" id="theme"/>
+    {% endif %}
+  
+  
+    <link rel="stylesheet" href="{{ "/libs/reveal.js/3.8.0/plugin/title-footer/title-footer-mod.css" | prepend: site.baseurl }}"/>
+  <link rel="stylesheet" href=/>
+
+  <script src="{{ "/libs/reveal.js/3.8.0/plugin/mermaid/mermaid.min.js" | prepend: site.baseurl }}"/ ></script>
+  <style>
+  .mermaid {
+    font-size: 0.5em;
+  }
+  </style>
+ 
+but not work yet -->
+
     <link rel="stylesheet" href="{{ "/reveal.js/css/reveal.css" | prepend: site.baseurl }}"/>
     {% if page.theme %}
       <link rel="stylesheet" href="{{ "/reveal.js/css/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
@@ -118,6 +140,10 @@
       </div>
     </div>
 
+  <!-- migrate from: https://github.com/evilz/vscode-reveal/tree/master/libs ,
+    <script src="{{ "/libs/reveal.js/3.8.0/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/libs/reveal.js/3.8.0/js/reveal.js" | prepend: site.baseurl }}"></script>
+but not work yet -->
     <script src="{{ "/reveal.js/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/reveal.js/js/reveal.js" | prepend: site.baseurl }}"></script>
     <script>

@@ -6,7 +6,7 @@ layout: slides
 transition: slide # none/fade/slide/convex/concave/zoom
 ---
 
-## 自我介绍
+## 周工自我介绍
 
 - 资深软件和电子工程师
 - 曾长期供职于知名芯片设计公司
@@ -55,7 +55,7 @@ transition: slide # none/fade/slide/convex/concave/zoom
 
 ---
 
-## 管理能力
+## 管理经验
 
 - 任职杨智科技期间组建并带领48人团队，完成新产品设计和研发，达成百万套出货
   - 良好的团队管理，跨部门沟通协调能力
@@ -66,7 +66,7 @@ transition: slide # none/fade/slide/convex/concave/zoom
 
 ---
 
-## 技术能力（1）
+## 技术（1）
 
 - 广泛掌握消费电子类别的软件硬件研发能力
   - 操作系统开发能力
@@ -81,7 +81,7 @@ transition: slide # none/fade/slide/convex/concave/zoom
 
 ---
 
-## 技术能力（2）
+## 技术（2）
 
 - 广泛掌握各种软件开发技术
   - web 服务器端开发经验
@@ -92,7 +92,7 @@ transition: slide # none/fade/slide/convex/concave/zoom
 
 ---
 
-## 技术能力（3）
+## 技术（3）
 
 - 掌握常用的硬件设计工具和方法
   - KiCAD - PCB 设计（熟练）
@@ -103,7 +103,7 @@ transition: slide # none/fade/slide/convex/concave/zoom
 
 ---
 
-## 技术能力（3）
+## 技术（4）
 
 - 掌握常用 MCU 的软硬件设计方法
   - ESP8266/ESP32

@@ -2,7 +2,7 @@
 layout: post
 title: HAVE FUN WITH TEAM
 author: X. H.
-category: work
+category: photo
 ---
 
 ## 珠海凤凰山户外拓展基地

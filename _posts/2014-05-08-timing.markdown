@@ -2,7 +2,7 @@
 layout: post
 title: TIMING
 author: X. H.
-category: work
+category: blog
 ---
 
 ## 爱，缘分，TIMING

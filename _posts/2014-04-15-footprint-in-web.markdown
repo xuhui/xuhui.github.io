@@ -3,7 +3,7 @@ layout: post
 title: 游走，并留下足印
 date: 2014-04-15 13:50
 author: X. H.
-category: work
+category: blog
 ---
 
 ## 互联网里面的足印

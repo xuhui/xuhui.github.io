@@ -3,7 +3,7 @@ layout: post
 title: "The Year-End Party"
 date: 2014-01-17 10:13:16 +0800
 author: X. H.
-category: work
+category: blog
 ---
 今天是公司尾牙的大日子，所有同事都对中大奖满怀期待。而我们几个主管也准备好表演闹剧以博同仁捧腹。
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XDB 来访
-category: work
+category: blog
 comments: true
 ---
 

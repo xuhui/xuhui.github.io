@@ -2,7 +2,7 @@
 layout: post
 title: IBM“EPS为纲”的苦果
 author: X. H.
-category: work
+category: blog
 ---
 
 * 这本杂志的文章作者好多也是标题党

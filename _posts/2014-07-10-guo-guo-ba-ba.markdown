@@ -2,7 +2,7 @@
 layout: post
 title: 果果粑粑
 author: X. H.
-category: work
+category: blog
 ---
 
 偶尔会翻果果爸爸的博客，今天看到一篇要马克一下。

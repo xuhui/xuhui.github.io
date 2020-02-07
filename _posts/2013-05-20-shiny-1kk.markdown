@@ -2,7 +2,7 @@
 layout: post
 title: 闪闪发亮，闪闪发亮
 author: X. H.
-category: work
+category: blog
 ---
 
 ## 兑现承诺，卖到1KK集体剃光头

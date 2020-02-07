@@ -2,7 +2,7 @@
 layout: post
 title: 新产品发布会（内部）
 author: X. H.
-category: work
+category: blog
 ---
 
 ## 近来项目时间紧迫，人力紧张。两三个月以来都是每周发布新版本，求吐槽。

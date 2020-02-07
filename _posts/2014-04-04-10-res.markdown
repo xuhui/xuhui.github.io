@@ -2,7 +2,7 @@
 layout: post
 title: EMAIL 来来往往10个RE
 author: X. H.
-category: work
+category: blog
 ---
 
 # 大于10个RE都决定不下来

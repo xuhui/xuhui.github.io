@@ -3,7 +3,7 @@ layout: post
 title: 只是那时的你太幼稚
 date: 2014-04-23 13:50
 author: X. H.
-category: work
+category: blog
 ---
 
 今天有感而发地对 X 先生说，我在某某PM身上仿佛看到我以前的影子。

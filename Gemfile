@@ -19,3 +19,5 @@ source 'https://gems.ruby-china.com'
 ## gem 'capistrano-file-permissions'
 
 gem 'capistrano', '~> 2.15.9'
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 常用资料
+title: Cheet Sheet
 ---
 
 ## Toolkits
@@ -15,6 +15,58 @@ title: 常用资料
 
 ### shell
 
+#### redirecting
+```
+make 2>&1|more
+make 2>&1|tee log.txt
+```
+#### find
+
+find -iname '*.o'|xargs grep -iHn 'theText'
+
+#### cut
+
+https://www.computerhope.com/unix/ucut.htm
+
+
+#### grep
+
+https://www.computerhope.com/unix/ugrep.htm
+
+grep -rHn 'text'
+
+#### paste
+
+https://www.computerhope.com/unix/upaste.htm
+
+### git
+
+```shell
+$ git clone --depth 1 https://github.com/dogescript/xxxxxxx.git
+$ git remote set-branches origin 'remote_branch_name'
+$ git fetch --depth 1 origin remote_branch_name
+$ git checkout remote_branch_name
+```
+
+#### vim
+
+https://github.com/skwp/dotfiles
+
+#### tmux
+
+https://tmuxcheatsheet.com/
+
+https://gist.github.com/MohamedAlaa/2961058
+
+### buildroot
+
+https://stackoverflow.com/questions/47320800/how-to-clean-only-target-in-buildroot
+
+```
+rm -rf output/target
+find output/ -name ".stamp_target_installed" |xargs rm -rf 
+```
+
 ### verilog
 
 ### kicad
@@ -22,6 +74,14 @@ title: 常用资料
 ### markdown
 
 typora
+
+https://remarkableapp.github.io/linux/download.html
+
+https://github.com/jonschlinkert/remarkable
+
+gitbook editor
+
+https://morrowind.gitbooks.io/gitbook_notes/
 
 ## books
 
@@ -38,8 +98,6 @@ https://github.com/kubernetes/kubernetes
 kind: https://banzaicloud.com/blog/kind-ingress/
 
 https://edu.aliyun.com/roadmap/cloudnative
-
-
 
 ### docker
 
@@ -114,15 +172,15 @@ docker run --rm -it -v /work/zp:/workdir crops/zephyr-container
 sudo usermod -aG docker $USER
 ```
 
-
-
 ## Back-end
 
 ### Golang On Gin
 
+https://github.com/gin-gonic/gin
+
+3分钟中文简介 https://www.yoytang.com/go-gin-doc.html
+
 ### Ruby On Rails
-
-
 
 ## Front-end
 
@@ -169,17 +227,4 @@ ESP8266 w/ nodemcu
 ### K210
 
 ## EE/PLATFORM
-
-### F1C100S
-
-#### openwrt build
-https://qinfengling.pro/build_openwrt_image_for_licheepi_nano.html
-
-https://github.com/thirtythreeforty/businesscard-linux
-
-#### buildroot
-
-https://whycan.cn/t_3138.html
-
-dl for buildroot: https://pan.baidu.com/s/1_tBdX9K7fOkH9JdXZ_MdiQ
 

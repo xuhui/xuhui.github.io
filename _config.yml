@@ -27,6 +27,9 @@ permalink:        /pages/:year-:month-:day-:title.html  #pretty
 markdown    : kramdown
 
 collections:
+  pslides:
+    output:           true
+    permalink:        /aab90dfe8c6f152a4fb071f5f4f9df804626e6ab/:collection/:title/
   slides:
     output:           true
     permalink:        /:collection/:title/

@@ -77,7 +77,7 @@ application: auto functions, independ from the infrastructure
 
 ---
 
-## 关键交流议题 (1)
+## 关键交流议题
 
 - 短期目标？
 
@@ -94,15 +94,9 @@ application: auto functions, independ from the infrastructure
 
 ---
 
-## 关键交流议题 (2)
+## 关键交流议题 - 续1
 
-- 长期目标？
-
-  - 建立 AUTOSAR 应用能力？
-    - 会用就好
-    - 购买、置备各种设施
-    - 内部开发以应用、使用为主，开发少量辅助工具
-
+- 长期目标？ (option 1)
   - 建立 AUTOSAR 开发能力？
     - 建立开发 OSEK 能力
     - 针对相关标准演进进行OS迭代
@@ -111,7 +105,16 @@ application: auto functions, independ from the infrastructure
       - 配置
       - 代码生成
       - 模拟、仿真
-    
+
+---
+
+## 关键交流议题 - 续2
+
+- 长期目标？ (option 2)
+  - 建立 AUTOSAR 应用能力？
+    - 会用就好
+    - 购买、置备各种设施
+    - 内部开发以应用、使用为主，开发少量辅助工具
 
 ---
 

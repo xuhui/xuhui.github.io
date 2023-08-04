@@ -58,7 +58,9 @@ title: 周旭辉简历
 [https://zhongce.sina.com.cn/article/view/65382](https://zhongce.sina.com.cn/article/view/65382)
 [https://www.9ji.com/product/52418.html](https://www.9ji.com/product/52418.html)
 
-### 2019 中国象棋对弈机器人
+### 2019 哈工有思中国象棋对弈机器人
+
+基于 ros2 gazebo 等
 
 （公开资料未链接）
 

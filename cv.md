@@ -54,6 +54,25 @@ title: 周旭辉简历
 
 产品在准备量产：[http://www.elipson.com/en/range/150_Cube.html](http://www.elipson.com/en/range/150_Cube.html)
 
+### 2018 诸葛小明床头灯
+[https://zhongce.sina.com.cn/article/view/65382](https://zhongce.sina.com.cn/article/view/65382)
+[https://www.9ji.com/product/52418.html](https://www.9ji.com/product/52418.html)
+
+### 2019 中国象棋对弈机器人
+
+（公开资料未链接）
+
+### 2020 小豆包网络打印机平台
+
+[http://www.imeitou.com/soft/90586.html](http://www.imeitou.com/soft/90586.html) 【注：周工负责设备端系统的软件和硬件设计和开发】
+
+### 2021 全电控触屏牙科手术椅
+
+（公开资料未链接）
+
+### 2022 多泰吉
+
+瑞汽车超声波门雷达系统软件等
 
 ## 擅长技能
 

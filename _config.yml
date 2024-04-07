@@ -1,7 +1,7 @@
 
 # SEO settings
 title: ""
-title2: "辉橦一班" #"X.H." # default: ""
+title2: "旅行心得" #"X.H." # default: ""
 description: "Recently focus on audio device."
 keywords: "photography, software, audio, github, SEO, blog, web, minimalist, ruby, python"
 url: # site url
@@ -46,13 +46,13 @@ sass:
 
 # Author settings
 author:
-  name     : "Zhou Xuhui"
+  name     : "EE"
   job      : "DIYer"
   bio      : "also I am a shutterbug, a DIYer, an audiophile, a software engineer. I am writing this blog in Chinese and Chinglish."
   thumb    :
-  email    : mail@zhouxuhui.com
+  email    : ee@eesees.cn
   url      : ""
-  github   : http://github.com/xuhui
+  github   : http://github.com/ee-repo
   twitter  :
   facebook :
   linkedin :

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 远大美域风车节
-author: X. H.
 category: photo
 ---
 
@@ -17,4 +16,3 @@ category: photo
 
 “距离是一种美丽，你再走远一点er~”
 ![](/images/extra/feng-che-04.jpg)
-

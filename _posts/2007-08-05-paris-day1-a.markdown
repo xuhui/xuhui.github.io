@@ -1,8 +1,5 @@
 ---
 layout: post
 title: Paris day 1, the ticket
-author: X. H.
 category: photo
 ---
-
-

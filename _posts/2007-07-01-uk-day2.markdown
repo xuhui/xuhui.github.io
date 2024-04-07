@@ -1,8 +1,5 @@
 ---
 layout: post
 title: UK day 2
-author: X. H.
 category: photo
 ---
-
-

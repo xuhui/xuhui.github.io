@@ -15,6 +15,7 @@ source 'https://gems.ruby-china.com'
   gem 'pygments.rb', '~> 0.6.3'
   gem 'kramdown-parser-gfm'
   gem 'webrick'
+  gem 'jekyll-plantuml'
 #end
 
 ## gem 'capistrano', '~> 3.0.0'

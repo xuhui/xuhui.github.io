@@ -386,3 +386,7 @@ https://steward-fu.github.io/website/index.htm
 ## MISC HW NOTES
 
 use NP0 caps for osc circuits
+
+{% plantuml %}
+[First] - [Second]
+{% endplantuml %}

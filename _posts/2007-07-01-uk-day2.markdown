@@ -1,5 +1,5 @@
 ---
 layout: post
 title: UK day 2
-category: photo
+category: travel
 ---

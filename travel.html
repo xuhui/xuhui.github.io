@@ -1,0 +1,29 @@
+---
+layout: default
+title: Home
+---
+<section class="intro">
+  <div class="container">
+    <p class="lead">
+    以下整理一些有关旅行的计划，旅行的心得，记录对旅途中所见人文风景的体验。
+    </p>
+  </div>
+</section>
+
+<section class="post-list">
+  <div class="container">
+    {% for post in site.categories.travel %}
+      {% assign currentdate = post.date | date: "%Y" %}
+      {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <h2 class="category-title">{{ currentdate }}</h2>
+        {% assign date = currentdate %}
+      {% endif %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+      </article>
+      {% if forloop.last %}{% endif %}
+    {% endfor %}
+  </div>
+</section>

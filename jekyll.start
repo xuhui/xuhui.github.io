@@ -1,1 +1,1 @@
-nohup bundle exec jekyll s -H 0.0.0.0 &
+nohup bundle exec jekyll s -H 0.0.0.0 >/tmp/jekyll.log 2>&1 &

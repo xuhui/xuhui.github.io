@@ -13,14 +13,6 @@ category: blog
 | 3 | 瓶装水 | 20 |
 
 
-{% mermaid %}
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-{% endmermaid %}
-
 
 {% plantuml %}
 @startmindmap

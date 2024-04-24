@@ -16,6 +16,7 @@ source 'https://gems.ruby-china.com'
   gem 'kramdown-parser-gfm'
   gem 'webrick'
   gem 'jekyll-plantuml'
+  gem 'jekyll-mermaid', '~> 1.0.o'
 #end
 
 ## gem 'capistrano', '~> 3.0.0'

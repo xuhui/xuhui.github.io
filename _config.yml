@@ -65,6 +65,10 @@ twitter_site: "@HeiswayiNrird"
 plugins:
   - bourbon
   - jekyll-paginate
+  - jekyll-mermaid
+
+mermaid:
+  src: '/js/mermaid.min.js'
 
 # navbar pages
 navbar:

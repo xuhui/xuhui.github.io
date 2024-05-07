@@ -1,0 +1,28 @@
+---
+layout: post
+title: LCD显示面板 - 第一版
+category: [ee, pcb, linux]
+comments: false
+---
+
+## v.1
+
+### 调试后的工作状态
+
+* JTAG 可以工作，可以下载和运行
+* 可以烧录片内 FLASH
+* 串口工作正常，能够输出调试信息，能通使用flashmagic烧写片内flash
+
+### 问题/TODO
+
+* SDRAM 未调试，未采买芯片（打算改用32bit芯片）
+
+---
+
+![w800](/images/DFRAME-V.1.png)
+
+---
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20191223-LPC1788/bom/ibom.html)
+

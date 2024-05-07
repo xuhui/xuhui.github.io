@@ -1,0 +1,25 @@
+---
+layout: post
+title: STM32F446 UAC 开发板
+category: [ee, audio, pcb]
+comments: false
+---
+
+## 版本
+Rev 1
+
+## 简介
+使用STMF4 MCU，TI PCM5102A 设计一个USB DAC 开发、验证板。
+
+## 规格
+- USB Audio
+- STM32F446
+- PCM5102A
+- TDA1543 - opt
+
+## 工程基础
+- 已经掌握STM32F4的设计和使用
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20201004-STM32F446-PCM5102A/bom/ibom.html)
+

@@ -1,0 +1,24 @@
+---
+layout: post
+title: USB DAC - STM32F4 版本
+category: [ee, pcb, audio]
+comments: false
+---
+
+## 版本
+Rev 1
+
+## 简介
+使用STMF4 MCU，TI PCM5102A 设计一个USB DAC。
+
+## 规格
+- USB Audio
+- PCM5102A
+- 通过2.54连接件使用TDA1543模块
+
+## 工程基础
+- 已经掌握STM32F4的设计和使用
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20201030-401RE-TDA1543/bom/ibom.html)
+

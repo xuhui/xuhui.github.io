@@ -1,0 +1,15 @@
+---
+layout: post
+title: LCD显示面板 - 第四版
+category: [ee, linux]
+comments: false
+---
+
+## v.4
+
+* 移除NOR FLASH以确认SDRAM布线问题
+
+---
+
+![w800](/images/DFRAME-V.4.png)
+

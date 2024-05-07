@@ -1,0 +1,22 @@
+---
+layout: post
+title: Linux module MODEL TWO - rev 02
+category: [ee, pcb, linux]
+comments: false
+---
+
+
+## 版本
+
+Model 1, Rev 2
+
+## 概要
+LINUX 核心板 MODEL 2
+
+## 规格
+- I2S OUT
+
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200630-f1c100s-card-v2/bom/ibom.html)
+

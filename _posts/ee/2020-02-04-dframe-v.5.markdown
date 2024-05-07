@@ -1,0 +1,14 @@
+---
+layout: post
+title: LCD显示面板 - 第五版
+category: [ee, linux]
+comments: false
+---
+
+## v.5.2
+
+* 改变器件布局
+
+---
+
+![w800](/images/DFRAME-V.5.2.png)

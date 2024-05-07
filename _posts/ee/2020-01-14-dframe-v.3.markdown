@@ -1,0 +1,15 @@
+---
+layout: post
+title: LCD显示面板 - 第三版
+category: [ee, linux]
+comments: false
+---
+
+## v.3
+
+* 增加FPC连接座，准备增加以太网子板
+
+---
+
+![w800](/images/DFRAME-V.3.png)
+

@@ -1,0 +1,20 @@
+---
+layout: post
+title: Remote Camera - rev 04
+category: [ee, iot, industry, linux]
+comments: false
+---
+
+## v0.4
+
+* Replace nano pi with mini PCI-E form factor linux module model one rev02
+* fix LCD1602A wiring
+
+---
+
+![w800](/images/rcam4.jpg)
+
+---
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200529-rcam-pcb/bom/ibom.html)

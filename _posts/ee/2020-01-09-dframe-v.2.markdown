@@ -1,0 +1,21 @@
+---
+layout: post
+title: LCD显示面板 - 第二版
+category: [ee, linux, iot]
+comments: false
+---
+
+## v.2
+
+* 更换DRAM为32bit的料件
+
+
+## 调试后能够工作的功能
+
+## 待解决问题
+
+
+---
+
+![w800](/images/DFRAME-V.2.png)
+

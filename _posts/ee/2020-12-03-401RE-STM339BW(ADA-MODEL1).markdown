@@ -1,0 +1,34 @@
+---
+layout: post
+title: ADA/全数字功放 - 蓝牙/USB版本
+category: [ee, audio, pcb]
+comments: false
+---
+
+## 版本
+Rev 1
+
+## 简介
+使用STMF4 MCU，STM CLASSD，ESP32设计做一个全数字功放。
+
+## 规格
+- USB或蓝牙可选，但两者不能同时工作（该版本没有设计I2S切换电路）
+- USB Audio 使用自研STM32F401方案
+- Bluetooth Audio使用ESP32
+- STA339BW 数字输入 CLASS-D功放
+- 一个带按压开关的编码器作为UI、音量调整
+- 4个双色LED
+- Power supply with 18V~24V DC, 30W
+
+## 工程基础
+- 已经熟悉DCDC电源的设计
+- 已经熟悉CLASS-D电路的设计和调试
+- 已经掌握STM32F4的设计和使用，已经设计好UAC方案
+
+## 新的挑战
+- ESP32平台（软硬件）
+- 蓝牙、RF电路设计调试、测试
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20201203-401RE-STM339BW(ADA-MODEL1)/bom/ibom.html)
+

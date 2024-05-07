@@ -1,0 +1,20 @@
+---
+layout: post
+title: LCD显示面板 - 第六版
+category: [ee, linux]
+comments: false
+---
+
+## v.6.1
+
+* 使用两片SDRAM
+
+---
+
+![w800](/images/DFRAME-V.6.1.png)
+
+---
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200223-dframe/bom/ibom.html)
+

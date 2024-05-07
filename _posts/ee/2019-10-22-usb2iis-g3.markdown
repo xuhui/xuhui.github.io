@@ -1,0 +1,23 @@
+---
+layout: post
+title: usb2iis-g3
+category: [ee, pcb]
+comments: false
+---
+
+## 版本
+
+Rev 1
+
+## 简介
+SAM3U 开发、测试板子，用来开发 USB AUDIO
+
+# Function
+- 引出尽量多的IO
+- JTAG接口
+
+---
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20191022-usb2iis-g3/bom/ibom.html)
+

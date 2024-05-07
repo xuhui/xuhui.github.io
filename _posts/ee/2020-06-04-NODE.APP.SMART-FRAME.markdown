@@ -1,0 +1,15 @@
+---
+layout: post
+title: NODE.APP.SMART-FRAME
+category: [ee, pcb]
+comments: false
+---
+
+
+
+- 初始版本
+
+---
+
+[物料清单和安装位置](/static/KiCAD-20200604-NODE.APP.SMART-FRAME/bom/ibom.html)
+

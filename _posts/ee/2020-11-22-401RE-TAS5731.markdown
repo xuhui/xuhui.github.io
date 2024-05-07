@@ -1,0 +1,27 @@
+---
+layout: post
+title: ADA/全数字功放 - USB 版本
+category: [ee, pcb, audio]
+comments: false
+---
+
+## 版本
+Rev 1
+
+## 简介
+使用STMF4 MCU，TI CLASSD 设计做一个全数字功放。
+
+## 规格
+- USB Audio
+- TI TAS5731 数字输入 CLASS-D功放
+- 一个带按压开关的编码器作为待机/唤醒、音量调整
+- Power supply with 18V~24V DC, 30W
+
+## 工程基础
+- 已经熟悉DCDC电源的设计
+- 已经熟悉CLASS-D电路的设计和调试
+- 已经掌握STM32F4的设计和使用，已经设计好UAC方案
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20201122-401RE-TAS5731/bom/ibom.html)
+

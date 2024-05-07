@@ -1,0 +1,24 @@
+---
+layout: post
+title: STM32F407 / STM32F107 开发板
+category: [ee, iot, industry, pcb]
+comments: false
+---
+
+
+## 版本
+Rev 1
+
+## 简介
+使用STMF4 MCU 设计一款开发板，主要用来开发和验证汽车电子有个的协议和功能。
+
+## 规格
+- STM32F407
+- STM32F107
+- STM32F072
+- STM32F103
+- CAN BUS
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200823-STM32F407ZG/bom/ibom.html)
+

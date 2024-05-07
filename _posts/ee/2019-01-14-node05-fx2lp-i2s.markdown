@@ -1,0 +1,49 @@
+---
+layout: post
+title: NODE 05 - FX2LP USB 数字界面
+category: [audio]
+comments: false
+---
+
+```
+```
+
+### 硬件架构
+
+USB2.0 -> Cypress FX2LP -> CPLD/FPGA 抓数据转I2S -> DAC 用我自己先前做的 R-2R DAC，比较好调 -> 示波器看波形，直推耳机试响声
+
+软件/代码/参考资料：usb audio class 2.0 相关官方文档，cypress 一堆参考例子，verilog
+
+### 工具
+
+modelsim，sdcc，DS5022示波器
+
+
+### 状态
+
+波形基本正常，可以出声
+
+
+### 计划
+
+正经做一个实用的DAC，然后继续测试比对
+
+
+### 图片
+
+图一，焊接的电路板
+![w800](/images/node5/IMG_3456.JPG)
+
+
+
+图二，通电没有冒烟的电路板
+![w800](/images/node5/IMG_3453.JPG)
+
+
+图三，跟DAC接在一起
+![w800](/images/node5/IMG_3452.JPG)
+
+
+
+图四，出波形、出声
+![w800](/images/node5/IMG_3451.JPG)

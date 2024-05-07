@@ -1,0 +1,20 @@
+---
+layout: post
+title: Remote Camera - rev 01
+category: [ee, iot, industry, linux]
+comments: false
+---
+
+## PCB v0.1
+
+* LCD1602 DISPLAY
+* STC MCU for power management
+* power with one 18650 battery
+* use nano pi as linux system for picture capturing
+
+---
+
+![w800](/images/rcam1.jpg)
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200430-rcam-pcb-v01/bom/ibom.html)

@@ -1,0 +1,23 @@
+---
+layout: post
+title: STA339BW 开发板
+category: [ee, pcb, audio]
+comments: false
+---
+
+## 版本
+Rev 1
+
+## 简介
+STA339BW CLASSD 开发板。
+
+## 规格
+- STA339BW 数字输入 CLASS-D功放
+- 使用M-PCIE座连接LINUX模块
+
+## 工程基础
+- 已经熟悉CLASS-D电路的设计和调试
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200710-classd_sta339bw/bom/ibom.html)
+

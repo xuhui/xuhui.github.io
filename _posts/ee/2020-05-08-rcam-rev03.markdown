@@ -1,0 +1,20 @@
+---
+layout: post
+title: Remote Camera - rev 03
+category: [ee, iot, industry, linux]
+comments: false
+---
+
+PCB v0.3
+
+* Change to use STC8A
+* add segment-7 led display option
+
+---
+
+![w800](/images/rcam3.jpg)
+
+---
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200528-rcam-pcb-v03/bom/ibom.html)

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Remote Camera - rev 02
+category: [ee, iot, industry, linux]
+comments: false
+---
+
+## PCB v0.2
+
+* Change the part layout/placement
+
+---
+
+![w800](/images/rcam2.jpg)
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200430-rcam-pcb-v02/bom/ibom.html)

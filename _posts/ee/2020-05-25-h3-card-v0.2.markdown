@@ -1,0 +1,15 @@
+---
+layout: post
+title: h3-card-v0.2
+category: [ee, pcb]
+comments: false
+---
+
+
+
+- 初始版本
+
+---
+
+[物料清单和安装位置](/static/KiCAD-20200525-h3-card-v0.2/bom/ibom.html)
+

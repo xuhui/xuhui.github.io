@@ -1,0 +1,27 @@
+---
+layout: post
+title: NODE 10 - WM8740 with TPA6112
+category: [audio, ee, pcb]
+comments: false
+---
+
+```
+```
+
+## 想整一块带耳放的 DAC
+
+之前整过WM8740/WM8741两款片子，WM8741整那些电源都好大一块板子。现在想要一个可也带走的，翻抽屉还有一块WM8740，所以画一块板子调一下。目标是单5V，推32欧耳机。
+
+
+板子调好几天了，因为电路图错了甚至封装也错了所以。。。
+![w800](/images/node10/node10-sch-v100.jpg)
+
+对的电路图应该是这样
+![w800](/images/node10/node10-sch-v101.jpg)
+
+
+
+飞了很多线之后，板子正常工作。至于音质，，是预料之中的那样
+![w800](/images/node10/node10-pcba.jpg)
+
+最后调好后最大的问题是声音太大了，于是就再想怎样调音量。。

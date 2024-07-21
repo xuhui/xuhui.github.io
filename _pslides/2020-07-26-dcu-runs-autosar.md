@@ -127,3 +127,26 @@ application: auto functions, independ from the infrastructure
 [OS Spec.](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-2/AUTOSAR_SWS_OS.pdf)
 
 
+---
+
+plantuml demo
+
+{% plantuml %}
+[First] - [Second]
+{% endplantuml %}
+
+
+---
+
+mermaid demo
+
+{% mermaid %}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{% endmermaid %}
+
+
+

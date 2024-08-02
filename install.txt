@@ -1,0 +1,6 @@
+Cannot build rubies 2.6.x, 2.7.x and 3.0.x on Ubuntu 22.04 because they relies on openssl1.1 and Ubuntu now provides openssl3
+
+https://github.com/rvm/rvm/issues/5209
+
+rvm pkg install openssl
+rvm install ruby-2.7.2 --with-openssl-dir=$HOME/.rvm/usr

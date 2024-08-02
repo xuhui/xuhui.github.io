@@ -41,11 +41,23 @@ chapter 1
 
 ---
 
+### maintaince
+
+- readable 可读性
+
+- weak coupling 低耦合（模块化）
+
+- code style, comments, notes, documentation
+
+---
+
 ### BUT HOW?
 
 ---
 
 my answer: read, learn, and again ..
+
+spent my days, holidays, my days and nights
 
 ---
 
@@ -78,6 +90,36 @@ concepts
 ---
 
 case: ah8 breathing
+
+---
+
+### requirement
+
+ON -> breathe -> breathe -> breathe -> OFF
+
+....
+
+so, what is your solution?
+
+---
+
+提问
+
+---
+
+... dragrams ...
+
+---
+
+case: s32
+
+---
+
+... excel ...
+
+---
+
+... demo ...
 
 ---
 

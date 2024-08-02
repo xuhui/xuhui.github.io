@@ -35,19 +35,32 @@ chapter 1
 - 骨
 - 皮
 
+软件项目中，肉骨皮指的是什么
+
 ---
 
 - 神经
 
 ---
 
-### maintaince
+### GOOD CODE ?
+
+maintaince
 
 - readable 可读性
 
 - weak coupling 低耦合（模块化）
 
 - code style, comments, notes, documentation
+
+---
+
+最容易出现 BUG 的地方，最难维护的地方是
+
+- 肉 ？
+- 骨 ？
+- 皮 ？
+- 神经 ？
 
 ---
 
